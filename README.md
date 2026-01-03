@@ -1,5 +1,0 @@
-## Requirements
-
-- Python 3.10+
-- openai 2.14.0
-- python-dotenv 1.2.1
