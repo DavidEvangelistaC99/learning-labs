@@ -6,6 +6,6 @@
 
 ## Key Resources and Links
 
-1. **Advanced Computer Vision with Python - Full Course**
-   freeCodeCamp.org 
+1. **Advanced Computer Vision with Python - Full Course**<br>
+   freeCodeCamp.org<br>
    https://www.youtube.com/watch?v=01sAkU_NvOY 
