@@ -3,3 +3,17 @@ Data Science Metodologies
 - CRISP-DM
 - KDD
 - SEMMA
+
+- Problem understanding
+- Data exploration and preparation
+	- Outliers
+- Data representation and "transformation"
+	- Techniques: Statistics, Visualizations
+- Data presentation and visualization
+- Model training
+	- Predictions
+- Model implementation
+	- Maintenance
+
+
+
